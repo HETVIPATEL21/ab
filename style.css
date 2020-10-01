@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body
+{
+    margin: 0;
+    padding: 0;
+    top: 20%;
+}
+
+.navbar-brand 
+{
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 2rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.jumbotron
+{
+    top: 20%;
+    margin: 0;
+    font-style:3rem;
+    line-height: 2rem;
+}
+.container
+{
+    padding: 2% 2% 1%;
+    margin: auto 10%
+}
+.a
+{
+   margin-left:10%;
+   text-align:left;
+}
+
+#paragraph
+{
+    padding: 7% 15%
+}
+
+.h2
+{
+    margin: 2%;
+   font-family: "montserrat-bold";
+    text-align: center;
+}
+.xyz
+{
+    text-align: center;
+    font-family: 'Montserrat';
+    padding: 5%;
+}
+.container-fotter
+{
+    margin:2%;
+    text-align: center;
+    font-size: 1rem;
+    color:#818181;
+}
+
+
